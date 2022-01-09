@@ -12,7 +12,7 @@ static const char *colors[SchemeLast][2] = {
 	/*     fg         bg       */
 	[SchemeNorm] = { "#ebdbb2", "#282828" },
 	[SchemeSel] = { "#ebdbb2", "#cc241d" },
-	[SchemeOut] = { "#ebdbb2", "#fb4934" },
+	[SchemeOut] = { "#ebdbb2", "#d79921" },
 };
 /* -l option; if nonzero, dmenu uses vertical list with given number of lines */
 static unsigned int lines      = 0;
